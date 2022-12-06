@@ -1,0 +1,7 @@
+Class Greeting
+{
+   String greetings()
+   {
+      return "Hello, World!";
+   }
+}
